@@ -1,0 +1,9 @@
+{
+	"applications": {},
+	"bootstrapPlugins": {
+		"plugin-template": {
+			"component": "test",
+			"url": "../../../../../"
+		}
+	}
+}
